@@ -1,3 +1,6 @@
+Sonya Yuninda Fauziah
+19.11.2758
+IF 03
 # Promos
 Aplikasi sederhana untuk study case yang diberikan dosen untuk tugas UAS. Aplikasi ini berfungsi untuk
 simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
